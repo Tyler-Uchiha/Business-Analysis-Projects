@@ -1,1 +1,7 @@
-https://www.figma.com/file/WPZ9GNVQwyWiz8b2d3UOu8/Nail-Salon-Mobile-%2B-Web?type=design&node-id=202-1689&mode=design
+Desktop Version
+
+https://www.figma.com/proto/WPZ9GNVQwyWiz8b2d3UOu8/Nail-Salon-Mobile-%2B-Web?node-id=205-2053&node-type=canvas&t=klx6yPmdTalhisqN-1&scaling=scale-down-width&content-scaling=fixed&page-id=202%3A1689&starting-point-node-id=205%3A2783
+
+Mobile Version
+
+https://www.figma.com/proto/WPZ9GNVQwyWiz8b2d3UOu8/Nail-Salon-Mobile-%2B-Web?node-id=210-4296&node-type=canvas&t=q1ckSyTvtUfdhAZK-1&scaling=scale-down&content-scaling=fixed&page-id=202%3A360&starting-point-node-id=202%3A1274
