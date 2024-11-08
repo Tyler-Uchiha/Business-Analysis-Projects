@@ -7,4 +7,4 @@ The aim of this project is to develop a mobile application for Rea Vaya's transp
 
 ##Links 
 
-A link to the initial prototype that was presented to Rea Vaya is attached on a document called "Figma Link"
+A link to the initial prototype that was presented to Rea Vaya is attached on a document called "Figma Prototype Link"
